@@ -134,6 +134,7 @@ const Testimonials = () => {
                     alt={testimonial.name}
                     fill
                     className="object-cover rounded-full"
+                    sizes="48px"
                   />
                 </div>
                 <div className="flex-1">
